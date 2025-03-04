@@ -10,7 +10,7 @@
 - **Cross-functional Leadership** – Aligning teams to drive AI innovation efficiently.
 - **Data & AI Workflow Automation** – Exploring ways to integrate AI into operational efficiency.
 
-### 🔧 Tech & Tools
+### Tech & Tools
 - **Languages:** Python (basic scripting), bash, JL Notebooks, Google Collab
 - **Project Management:** Agile, Jira, Confluence, Asana
 - **AI/ML Tools:** TensorFlow, OpenAI API
