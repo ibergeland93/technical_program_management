@@ -4,7 +4,7 @@
 🔹 Passionate about bridging the gap between AI engineering & business strategy  
 🔹 Experienced in **program management, automation, workflow optimization, and AI project delivery**  
 
-### 🔥 What I Do
+### What I Do
 - **AI & ML Program Management** – Overseeing AI-driven initiatives from concept to execution.
 - **Process Automation & Optimization** – Designing workflows to streamline ML operations.
 - **Cross-functional Leadership** – Aligning teams to drive AI innovation efficiently.
@@ -16,12 +16,10 @@
 - **AI/ML Tools:** TensorFlow, OpenAI API
 - **Version Control & Automation:** Git, GitHub Actions
 
-### 📌 Featured Projects
-🌟 **[AI Project Management Templates](https://github.com/ibergeland93/AI-PM-Templates)**  
-📊 **[ML Workflow Automation](https://github.com/ibergeland93/ML-Automation)**  
-🎨 **[Data Sculptures with ML](https://github.com/ibergeland93/Data-Art-ML)**  
+### Featured Projects
+ ** coming soon 
 
-### 🚀 Looking for Opportunities
+### Looking for Opportunities
 Seeking roles in **AI-focused program management, ML operations, and AI product strategy**. Open to collaborating on **AI workflow optimization & automation** projects!
 
 📫 **Let's Connect!**  
